@@ -12,43 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Rania =====
-[1]Rania       |10:56:24 | 08-11-2026| login OK @raniawlndri | score=2990 rank=2553
-[1]Rania       |10:56:24 | 08-11-2026| serverTime=2026-11-08T10:56:24.000Z local=2026-11-08T10:56:24.352Z
+[1]Rania       |12:23:07 | 09-11-2026| login OK @raniawlndri | score=3050 rank=2483
+[1]Rania       |12:23:07 | 09-11-2026| serverTime=2026-11-09T12:23:07.000Z local=2026-11-09T12:23:07.456Z
 --> [1]Rania menjalankan: Claim Daily
-[1]Rania       |10:56:26 | 08-11-2026| daily: OK +10 poin score=3000
---> [1]Rania menjalankan: Auto All Tasks (5 pending)
-[1]Rania       |10:56:27 | 08-11-2026| [1/5] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/raniawlndri/status/2119383200267124136
-[1]Rania       |10:56:27 | 08-11-2026| delay 10s...
-[1]Rania       |10:56:39 | 08-11-2026| [2/5] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/raniawlndri/status/2119382989539468079
-[1]Rania       |10:56:39 | 08-11-2026| delay 10s...
-[1]Rania       |10:56:51 | 08-11-2026| [3/5] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/raniawlndri/status/2119383127423942467
-[1]Rania       |10:56:51 | 08-11-2026| delay 10s...
-[1]Rania       |10:57:04 | 08-11-2026| [4/5] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/raniawlndri/status/2119383177823641758
-[1]Rania       |10:57:04 | 08-11-2026| delay 10s...
-[1]Rania       |10:57:16 | 08-11-2026| [5/5] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/raniawlndri/status/2119383201550285015
-[1]Rania       |10:57:16 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Rania       |10:57:17 | 08-11-2026| [1/1] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119357838153904 | proof=https://x.com/raniawlndri/status/2119383494632741379
+[1]Rania       |12:23:09 | 09-11-2026| daily: OK +10 poin score=3060
+--> [1]Rania menjalankan: Auto All Tasks (2 pending)
+[1]Rania       |12:23:11 | 09-11-2026| [1/2] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/raniawlndri/status/2119767332053973594
+[1]Rania       |12:23:11 | 09-11-2026| delay 10s...
+[1]Rania       |12:23:24 | 09-11-2026| [2/2] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/raniawlndri/status/2119767496938681808
+[1]Rania       |12:23:24 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rania       |12:23:27 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/raniawlndri/status/2119767495330178319
 --> [1]Rania menjalankan: Watch Anime
-[1]Rania       |10:57:18 | 08-11-2026| watch: semua video sudah completed
+[1]Rania       |12:23:28 | 09-11-2026| watch: semua video sudah completed
 --> [1]Rania menjalankan: Read Article
-[1]Rania       |10:57:19 | 08-11-2026| news: 34/34 artikel selesai dibaca
-[1]Rania       |10:57:20 | 08-11-2026| mint eligibility: {"userId":"1708626466651660288","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Rania       |10:57:20 | 08-11-2026| news: semua artikel sudah dibaca
+[1]Rania       |12:23:30 | 09-11-2026| news: 34/34 artikel selesai dibaca
+[1]Rania       |12:23:31 | 09-11-2026| mint eligibility: {"userId":"1708626466651660288","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Rania       |12:23:31 | 09-11-2026| news: semua artikel sudah dibaca
 --> [1]Rania menjalankan: Quiz Anime
 --> [1]Rania menjalankan: Music Missions (realtime, bisa lama!)
-[1]Rania       |10:57:22 | 08-11-2026| music: kedua misi sudah tercapai, stop
-[1]Rania       |10:57:22 | 08-11-2026| mission music-listens-10: sudah diklaim
-[1]Rania       |10:57:22 | 08-11-2026| mission music-minutes-30: sudah diklaim
-[1]Rania       |10:57:22 | 08-11-2026| mission anime-completed-3: sudah diklaim
+[1]Rania       |12:23:34 | 09-11-2026| music: kedua misi sudah tercapai, stop
+[1]Rania       |12:23:35 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Rania       |12:23:35 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Rania       |12:23:35 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rania menjalankan: Claim Missions
-[1]Rania       |10:57:23 | 08-11-2026| mission music-listens-10: sudah diklaim
-[1]Rania       |10:57:23 | 08-11-2026| mission music-minutes-30: sudah diklaim
-[1]Rania       |10:57:23 | 08-11-2026| mission anime-completed-3: sudah diklaim
+[1]Rania       |12:23:36 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Rania       |12:23:36 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Rania       |12:23:36 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rania menjalankan: Check Eligibility
 
 --- eligibility [1]Rania ---
-  @raniawlndri | score=2990 rank=2553
-  tasks    [######--------------] 2/7
+  @raniawlndri | score=3050 rank=2483
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,18 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Rania menjalankan: Read Manga
-[1]Rania       |10:57:26 | 08-11-2026| manga: 0/13 chapter belum completed
+[1]Rania       |12:23:41 | 09-11-2026| manga: 0/13 chapter belum completed
 --> [1]Rania menjalankan: Get Gift
-[1]Rania       |10:57:28 | 08-11-2026| gift: 4/10 belum diterima
-[1]Rania       |10:57:30 | 08-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
-[1]Rania       |10:57:33 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Rania       |10:57:36 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Rania       |10:57:39 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rania       |12:23:43 | 09-11-2026| gift: 3/10 belum diterima
+[1]Rania       |12:23:45 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rania       |12:23:48 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rania       |12:23:51 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Rania menjalankan: Setup Profile
-[1]Rania       |10:57:42 | 08-11-2026| profile: bio="https://x.com/raniawlndri" fav=kagura rewardAt=1791685463
-[1]Rania       |10:57:42 | 08-11-2026| profile: bonus sudah diklaim, skip
+[1]Rania       |12:23:54 | 09-11-2026| profile: bio="https://x.com/raniawlndri" fav=kagura rewardAt=1791685463
+[1]Rania       |12:23:54 | 09-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Rania menjalankan: Bind Wallet
-[1]Rania       |10:57:42 | 08-11-2026| wallet: sudah terikat DPX4bPL3tQ... (solana)
+[1]Rania       |12:23:55 | 09-11-2026| wallet: sudah terikat DPX4bPL3tQ... (solana)
 
 == RINGKASAN ==
-- Rania: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
+- Rania: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
